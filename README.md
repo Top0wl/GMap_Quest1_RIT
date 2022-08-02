@@ -10,3 +10,10 @@
 Скрипт БД - DB.sql
 
 Строка подключения - app.confin -> connectionStrings
+
+Double ЛКМ - Добавить точку
+ПКМ - Перетаскивать карту
+Удержание ЛКМ - Drag&Drop Marker
+
+![image](https://user-images.githubusercontent.com/49233906/182418430-cef9a4cf-e022-4fba-a520-b9ea51c32ffb.png)
+
